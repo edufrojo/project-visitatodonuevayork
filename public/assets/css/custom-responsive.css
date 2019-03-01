@@ -1,0 +1,81 @@
+/* Large devices (large desktops, 1200px and up) */
+@media (max-width: 1200px) and (orientation: landscape) {
+}
+
+@media (max-width: 1200px) and (orientation: portrait) {
+  .titulo-1 {
+    font-size: 6em;
+  }
+
+  .titulo-2 {
+    font-size: 4.5em;
+  }
+
+  .titulo-3 {
+    font-size: 4em;
+  }
+
+  .titulo-menu {
+    font: 400 2em 'Permanent Marker';
+  }
+
+  .descripcion,
+  input,
+  textarea {
+    font: 400 1.3em 'Roboto';
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (max-width: 992px) and (orientation: landscape) {
+}
+
+@media (max-width: 992px) and (orientation: portrait) {
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 768px) and (orientation: landscape) {
+  .excursion {
+    height: 84vh;
+  }
+}
+
+@media (max-width: 768px) and (orientation: portrait) {
+  .excursion {
+    height: 65vh;
+  }
+
+  .titulo-1 {
+    font-size: 4.4em;
+  }
+
+  .titulo-2 {
+    font-size: 3.7em;
+  }
+
+  .titulo-3 {
+    font-size: 3.5em;
+  }
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 425px) and (orientation: landscape) {
+}
+
+@media (max-width: 425px) and (orientation: portrait) {
+  .excursion {
+    height: 100vh;
+  }
+
+  .titulo-1 {
+    font-size: 3.4em;
+  }
+
+  .titulo-2 {
+    font-size: 2.7em;
+  }
+
+  .titulo-3 {
+    font-size: 2.5em;
+  }
+}
