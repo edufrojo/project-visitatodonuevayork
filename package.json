@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.5.0",
-    "animate.css": "^3.7.0",
+    "animate.css": "^4.1.1",
     "body-parser": "^1.18.3",
     "bootstrap": "^3.3.7",
     "compression": "^1.7.3",
